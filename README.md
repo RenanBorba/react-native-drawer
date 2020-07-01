@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
 
 # Projeto Portfólio Drawer Menu - Aplicação Mobile React Native
 
