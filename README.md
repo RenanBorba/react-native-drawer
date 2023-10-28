@@ -19,7 +19,7 @@
 
 <br>
 
-Aplicação Front-end Mobile desenvolvida em React Native para layout de Drawer Menu para aplicativos diversos e adaptação de projetos anteriores, e nesse caso usa dados estáticos para melhor visualização da animação de deslize do menu.
+Aplicação Front-end Mobile desenvolvida em React Native para layout de Drawer Menu para aplicativos diversos e adaptação de projetos anteriores. Usa dados estáticos para melhor visualização da animação de deslize do menu.
 
 <br><br>
 
